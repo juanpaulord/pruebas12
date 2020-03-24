@@ -1,0 +1,69 @@
+[submodule "addenda_farmgdl"]
+	path = addenda_farmgdl
+	url = https://github.com/xmarts/addenda_farmgdl.git
+[submodule "addenda_sanfranciscoasis"]
+	path = addenda_sanfranciscoasis
+	url = https://github.com/xmarts/addenda_sanfranciscoasis.git
+[submodule "addenda_siete24"]
+	path = addenda_siete24
+	url = https://github.com/xmarts/addenda_siete24.git
+[submodule "addenda_superprecio"]
+	path = addenda_superprecio
+	url = https://github.com/xmarts/addenda_superprecio.git
+[submodule "addenda_tiendas3b"]
+	path = addenda_tiendas3b
+	url = https://github.com/xmarts/addenda_tiendas3b.git
+[submodule "addendas_soriana"]
+	path = addendas_soriana
+	url = https://github.com/xmarts/addendas_soriana.git
+[submodule "addendas_walmart"]
+	path = addendas_walmart
+	url = https://github.com/xmarts/addendas_walmart.git
+[submodule "amount_to_text"]
+	path = amount_to_text
+	url = https://github.com/xmarts/amount_to_text.git
+[submodule "carpeta_xmarts_jaro"]
+	path = carpeta_xmarts_jaro
+	url = https://github.com/xmarts/carpeta_xmarts_jaro.git
+[submodule "charge_uuid_expense"]
+	path = charge_uuid_expense
+	url = https://github.com/xmarts/charge_uuid_expense.git
+[submodule "cod_negocio"]
+	path = cod_negocio
+	url = https://github.com/xmarts/cod_negocio.git
+[submodule "fields_functions_jarochito"]
+	path = fields_functions_jarochito
+	url = https://github.com/xmarts/fields_functions_jarochito.git
+[submodule "payments_usd_mxn"]
+	path = payments_usd_mxn
+	url = https://github.com/xmarts/payments_usd_mxn.git
+[submodule "reporte_comprobante_pagos"]
+	path = reporte_comprobante_pagos
+	url = https://github.com/xmarts/reporte_comprobante_pagos.git
+[submodule "reportlogistica"]
+	path = reportlogistica
+	url = https://github.com/xmarts/reportlogistica.git
+[submodule "check_print_custom_legend"]
+	path = check_print_custom_legend
+	url = https://github.com/xmarts/check_print_custom_legend.git
+[submodule "credit_limit_alert_update"]
+	path = credit_limit_alert_update
+	url = https://github.com/xmarts/credit_limit_alert_update.git
+[submodule "expenses_cancel"]
+	path = expenses_cancel
+	url = https://github.com/xmarts/expenses_cancel.git
+[submodule "ieps_calculation"]
+	path = ieps_calculation
+	url = https://github.com/xmarts/ieps_calculation.git
+[submodule "notas_credito"]
+	path = notas_credito
+	url = https://github.com/xmarts/notas_credito.git
+[submodule "stock_diference_jarochito"]
+	path = stock_diference_jarochito
+	url = https://github.com/xmarts/stock_diference_jarochito.git
+[submodule "tracking"]
+	path = tracking
+	url = https://github.com/xmarts/tracking.git
+[submodule "xmarts_monitorin_control"]
+	path = xmarts_monitorin_control
+	url = https://github.com/xmarts/xmarts_monitorin_control.git
