@@ -67,3 +67,30 @@
 [submodule "xmarts_monitorin_control"]
 	path = xmarts_monitorin_control
 	url = https://github.com/xmarts/xmarts_monitorin_control.git
+[submodule "cambio_moneda_importacion"]
+	path = cambio_moneda_importacion
+	url = git@gitlab.com:xmarts/xmarts-apps/cambio_moneda_importacion.git
+[submodule "uuid_provider_invoice"]
+	path = uuid_provider_invoice
+	url = git@gitlab.com:xmarts/uuid_provider_invoice.git
+[submodule "force_ppd_invoice"]
+	path = force_ppd_invoice
+	url = git@gitlab.com:xmarts/xmarts-apps/force_ppd_invoice.git
+[submodule "jaro_account_inv_report"]
+	path = jaro_account_inv_report
+	url = git@gitlab.com:xmarts/xmarts-apps/jaro_account_inv_report.git
+[submodule "multi_branch_accounting_report"]
+	path = multi_branch_accounting_report
+	url = git@gitlab.com:xmarts/apps/multi_branch_accounting_report.git
+[submodule "qty_total_count"]
+	path = qty_total_count
+	url = git@gitlab.com:xmarts/xmarts-apps/qty_total_count.git
+[submodule "xmarts_pos_invoice"]
+	path = xmarts_pos_invoice
+	url = git@gitlab.com:xmarts/xmarts-apps/xmarts_pos_invoice.git
+[submodule "multi_branch"]
+	path = multi_branch
+	url = git@github.com:viernes/multi_branch.git
+[submodule "pos_save_quotations"]
+	path = pos_save_quotations
+	url = git@github.com:viernes/pos_save_quotations.git
